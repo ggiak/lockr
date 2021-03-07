@@ -1,17 +1,17 @@
 {
-  "name": "lockr",
+  "name": "lockredis",
   "description": "A minimal API wrapper for localStorage",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "author": {
-    "name": "Dimitris Tsironis",
-    "email": "tsironis.dimitris@gmail.com"
+    "name": "Giorgos Giakoumettis",
+    "email": "giorgos@yiakoumettis.gr"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tsironis/lockr.git"
+    "url": "https://github.com/ggiak/lockr.git"
   },
   "license": "MIT",
   "files": [
